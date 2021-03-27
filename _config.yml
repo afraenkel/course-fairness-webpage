@@ -3,5 +3,5 @@ title: "Fairness and Algorithmic Decision Making"
 source: .
 destination: _site
 url: "https://afraenkel.github.io"
-baseurl: "/course-fairness-webpage"
+baseurl: "/fairness-algo-decision"
 permalink: /:url/

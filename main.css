@@ -1,0 +1,55 @@
+h1 {
+  font-size: 24pt;
+}
+h2 {
+  font-size: 20pt;
+}
+h3 {
+  font-size: 16pt;
+}
+header h1 {
+    font-size: 3.0vw;
+    padding-top: 1em;
+}
+.content [alt=drawing]{
+  width: 100%;
+}
+a {
+  color: #1133ee;
+}
+body {
+  padding-bottom: 10em;
+}
+.sidenote {
+  float: right;
+  margin-right: -15rem;
+  width: 14rem;
+  background-color: #ddd;
+  padding: 0.5rem;
+}
+code {
+  color: #169928;
+}
+ol li {
+  padding-bottom: 1rem;
+} 
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
+th {
+  background-color: gray;
+  color: white;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+table, th, td {
+  border: 1px solid black;
+}
+

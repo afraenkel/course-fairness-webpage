@@ -127,6 +127,8 @@ system. This system may be a real-world "live" system, a system/algorithm
 described in a publication, or a system that you build. See the
 [assignment](assignments/algorithmic-audit).
 
+This project may be worked on in pairs.
+
 Grade: 40% of Total
 
 ---

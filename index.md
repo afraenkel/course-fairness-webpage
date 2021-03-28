@@ -12,6 +12,7 @@ permalink: /
   - [Guidelines for Respectful Conversation](#guidelines-for-respectful-conversation)
 * [Assignments](#assignments)
 * [Schedule](#schedule)
+* [Resources](#resources)
 
 ---
 

@@ -120,7 +120,7 @@ This project may be worked on in pairs.
 
 *Grade: 40% of Total*
 
-## Paper Review / Replication 
+## Algorithmic Audit
 
 Write a paper that audits/analyzes an algorithmic decision making
 system. This system may be a real-world "live" system, a system/algorithm

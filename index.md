@@ -7,9 +7,9 @@ permalink: /
 
 ---
 * [Introduction](#introduction)
+* [Topics Covered](#topics-covered)
 * [Course Expectations](#course-expectations)
   - [Guidelines for Respectful Conversation](#guidelines-for-respectful-conversation)
-* [Topics Covered](#topics-covered)
 * [Assignments](#assignments)
 * [Schedule](#schedule)
 
@@ -29,6 +29,28 @@ technical work. Two parallel threads run through the quarter:
 
 ---
 
+# Topics Covered
+
+The course will broadly cover the following topics in sequence:
+1. Introduction, definitions, and context
+2. Identifying inequity in data
+3. (Un)Fairness across the machine learning pipeline
+4. A closer look at decision making
+5. Advanced topics
+
+Throughout the course, we will pay particular attention to the
+following themes:
+* The limits of measurement ('all data are cooked').
+* The new (and old) problems surfaced by the *algorithmic* component
+  in the decision making considered in the course.
+* How these topics surface in a variety of contexts (legal, social),
+  in a variety of decision-making paradigms (scoring models,
+  information retrieval), with a variety of data types (text, image,
+  tabular, geospatial).
+* Reasoning about the impact that a decision-making model has on the people with whom it interacts.
+
+---
+
 # Course Expectations
 
 This course is interdisciplinary by design. Assignments necessitate
@@ -43,8 +65,11 @@ important.
 
 The goal in this course is to meaningfully engage with and relate to
 the material; it's not necessary to understand every line of your
-reading. If you are finding this difficult, you should reach out to
-the instructor or TA!
+reading. Start by carefully reading the abstract, introduction, and
+conclusion (skimming the rest). Later, read over the work in its
+entirety. If you are still finding understanding a topic difficult,
+you should ask your classmates, then reach out to the instructor or
+TA!
 
 ### Guidelines for Respectful Conversation
 
@@ -71,29 +96,6 @@ this course:
   
 (Taken from [UMich CRLT](https://crlt.umich.edu/publinks/generalguidelines)).
 
-
----
-
-# Topics Covered
-
-The course will broadly cover the following topics in sequence:
-1. Introduction, definitions, and context
-2. Identifying inequity in data
-3. (Un)Fairness across the machine learning pipeline
-4. A closer look at decision making
-5. Advanced topics
-
-Throughout the course, we will pay particular attention to the
-following themes:
-* The limits of measurement ('all data are cooked').
-* The new (and old) problems surfaced by the *algorithmic* component
-  in the decision making considered in the course.
-* How these topics surface in a variety of contexts (legal, social),
-  in a variety of decision-making paradigms (scoring models,
-  information retrieval), with a variety of data types (text, image,
-  tabular, geospatial).
-* Reasoning about the impact that a decision-making model has on the people with whom it interacts.
-
 ---
 
 # Assignments
@@ -103,7 +105,7 @@ following themes:
 Each week, complete the reading assignment and write your response to
 the given prompt by Mondays at 11:59PM. Upon submission of the reading
 response, you must complete your assigned peer review by the following
-Wednesday at 11:59PM. These assignments are P/NP.
+Wednesday at 11:59PM. These assignments are graded on a 0-2 scale.
 
 See the [reading response assignment](assignments/reading-response)
 for details.
@@ -158,3 +160,74 @@ Grade: 40% of Total
   Disability](https://www.hamilton.edu/academics/centers/writing/writing-resources/language-of-difference-writing-about-race-ethnicity-social-class-and-disability)
 * [UCSD Writing Hub](https://writinghub.ucsd.edu/for-undergrads/index.html)
 
+
+---
+
+# Accessibility, Disability, and Remote Learning
+
+I aim to create an environment in which all students can succeed in
+this course. If you are experiencing obstacles to learning and
+engagement in the course at any point during the quarter, don't
+hesistate to contact me. If you need an accommodation for whatever
+reason, I will try to work with you to realize the accommodation in
+some respect. 
+
+If you are requesting accommodations for this course due to a
+disability, you must provide a current Authorization for Accommodation
+(AFA) letter issued by the Office for Students with Disabilities
+(OSD). Students are required to present their AFA letters to Faculty
+(please make arrangements to contact me privately) and to the DSC
+Student Advisor in advance so that accommodations may be
+arranged. Contact the OSD for further information: 858.534.4382
+(phone) osd@ucsd.edu (email) http://disabilities.ucsd.edu (website)
+
+If you have feedback on how to make the class more accessible and
+inclusive, please let me know.
+
+---
+
+# Diversity and Inclusion
+
+We are committed to fostering a learning environment for this course
+that supports a diversity of thoughts, perspectives and experiences,
+and respects your identities (including race, ethnicity, heritage,
+gender, sex, class, sexuality, religion, ability, age, educational
+background, etc.).  Our goal is to create a diverse and inclusive
+learning environment where all students feel comfortable and can
+thrive. 
+
+Our instructional staff will make a concerted effort to be welcoming
+and inclusive to the wide diversity of students in this course.  If
+there is a way we can make you feel more included please let one of
+the course staff know, either in person, via email/discussion board,
+or even in a note under the door.  Our learning about diverse
+perspectives and identities is an ongoing process, and we welcome your
+perspectives and input. 
+
+We also expect that you, as a student in this course, will honor and
+respect your classmates, abiding by the UCSD Principles of Community
+(https://ucsd.edu/about/principles.html).  Please understand that
+others’ backgrounds, perspectives and experiences may be different
+than your own, and help us to build an environment where everyone is
+respected and feels comfortable.
+
+If you experience any sort of harassment or discrimination, please
+contact the instructor as soon as possible.   If you prefer to speak
+with someone outside of the course, please contact the Office of
+Prevention of Harassment and Discrimination: https://ophd.ucsd.edu/.
+
+---
+
+# Academic Integrity
+
+
+In this course we expect students to adhere to the UC San Diego
+Integrity of Scholarship Policy. This means that you will complete
+your work honestly, with integrity. Some examples
+of specific ways this policy applies to DSC 167 include:
+* All writing must be your own (or that of your group partner).
+* Thoroughly cite all ideas and work that is not your own.
+* Any code that you write must be developed by you.
+* Discussing concepts among classmates is encouraged! However, any
+  work derived from such discussion should come from only you, after a
+  healthy pause to digest the conversation.

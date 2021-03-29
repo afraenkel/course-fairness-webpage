@@ -174,6 +174,7 @@ Grade: 40% of Total
 
 # Resources
 
+* [Lecture Notes](https://afraenkel.github.io/fairness-book/intro.html)
 * [References and topical reading](references)
 * [Writing about Race, Ethnicity, Social Class, and
   Disability](https://www.hamilton.edu/academics/centers/writing/writing-resources/language-of-difference-writing-about-race-ethnicity-social-class-and-disability)

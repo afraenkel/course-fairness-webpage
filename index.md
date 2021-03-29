@@ -97,6 +97,24 @@ this course:
   
 (Taken from [UMich CRLT](https://crlt.umich.edu/publinks/generalguidelines)).
 
+### Attendance
+
+The course may be taken asynchronously. Lectures will be
+prerecorded and posted on Canvas for viewing at any time. However,
+*real-time lecture attendance is highly encouraged*. We will have
+'watch parties' during scheduled lecture times:
+* The prerecorded lecture will be played in a Zoom meeting during the
+  scheduled lecture time.
+* I will be present to answer real-time questions in the chat.
+* Lecture will contain discussion slides that we will discuss as a class
+  (not-recorded) in breakout rooms.
+* I will have office hours immediately after the schedule lecture for
+  those who want to hang around and discuss the material.
+
+If you participate in the class asynchronously, please watch lecture
+within 24 hours of the scheduled lecture to stay up-to-date with the
+weekly readings.
+
 ---
 
 # Assignments

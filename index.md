@@ -13,7 +13,8 @@ permalink: /
 * [Assignments](#assignments)
 * [Schedule](#schedule)
 * [Resources](#resources)
-
+  - [Course Content](#course-content)
+  - [Writing about Bias and Discrimination](#writing-about-bias-and-discrimination)
 ---
 
 # Introduction

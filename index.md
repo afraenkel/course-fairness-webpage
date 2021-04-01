@@ -156,19 +156,19 @@ Grade: 40% of Total
 
 # Schedule
 
-|Week|Topic|Assignments|
-|---|---|---|
-|[Week 1](weeks/week01)|Introduction and Context||
-|[Week 2](weeks/week02)|Measurement, Data, and Decision Making||
-|[Week 3](weeks/week03)|Measuring Discrepancies at the Group Level||
-|[Week 4](weeks/week04)|Fairness and Discrimination at the Group Level||
-|[Week 5](weeks/week05)|Limits of Parity Measures||
-|[Week 6](weeks/week06)|Fairness and Discrimination at the Individual Level|**[Paper 1](assignments/inequity-analysis) Due**|
-|[Week 7](weeks/week07)|Examining Algorithmic Decisions in an ML Pipeline||
-|[Week 8](weeks/week09)|Amplification of Bias and Feedback Loops||
-|[Week 9](weeks/week08)|Matching in Markets (Ad Serving, Gig Economy, Recommendations)||
-|[Week 10](weeks/week10)|3rd Party APIs, Unsupervised Models, Vector Embeddings||
-|Finals Week||**[Paper 2](assignments/algorithmic-audit) Due**|
+|Week|Topic|Discussion|Assignments|
+|---|---|---|---|
+|[Week 1](weeks/week01)|Introduction and Context|None||
+|[Week 2](weeks/week02)|Measurement, Data, and Decision Making|OH||
+|[Week 3](weeks/week03)|Measuring Discrepancies at the Group Level|Data Analysis I||
+|[Week 4](weeks/week04)|Fairness and Discrimination at the Group Level|Data Analysis II||
+|[Week 5](weeks/week05)|Limits of Parity Measures|OH (paper 1 help)||
+|[Week 6](weeks/week06)|Fairness and Discrimination at the Individual Level||**[Paper 1](assignments/inequity-analysis) Due**|
+|[Week 7](weeks/week07)|Examining Algorithmic Decisions in an ML Pipeline|||
+|[Week 8](weeks/week09)|Amplification of Bias and Feedback Loops|||
+|[Week 9](weeks/week08)|Matching in Markets (Ad Serving, Gig Economy, Recommendations)|||
+|[Week 10](weeks/week10)|3rd Party APIs, Unsupervised Models, Vector Embeddings|||
+|Finals Week||**[Paper 2](assignments/algorithmic-audit) Due**||
 
 ---
 

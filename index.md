@@ -169,7 +169,7 @@ Grade: 40% of Total
 |[Week 8](weeks/week09)|Amplification of Bias and Feedback Loops|||
 |[Week 9](weeks/week08)|Matching in Markets (Ad Serving, Gig Economy, Recommendations)|||
 |[Week 10](weeks/week10)|3rd Party APIs, Unsupervised Models, Vector Embeddings|||
-|Finals Week||**[Paper 2](assignments/algorithmic-audit) Due**|||
+|Finals Week|||**[Paper 2](assignments/algorithmic-audit) Due**||
 
 ---
 

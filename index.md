@@ -174,10 +174,33 @@ Grade: 40% of Total
 
 # Resources
 
+## Course Content 
+
 * [Lecture Notes](https://afraenkel.github.io/fairness-book/intro.html)
 * [References and topical reading](references)
+
+## Writing about bias and discrimination
+
 * [Writing about Race, Ethnicity, Social Class, and
   Disability](https://www.hamilton.edu/academics/centers/writing/writing-resources/language-of-difference-writing-about-race-ethnicity-social-class-and-disability)
+* [AP Stylebook](https://www.apstylebook.com/uc-san-diego/ap_stylebook) (requires UCSD network/VPN).
+  - [Race-related](https://www.apstylebook.com/uc-san-diego/ap_stylebook/race-related-coverage) topics
+  - [Gender](https://www.apstylebook.com/uc-san-diego/ap_stylebook?selected_tag=33#teaching_topics_tab)
+    topics ([gender-neutral
+    language](https://www.apstylebook.com/uc-san-diego/ap_stylebook/gender-neutral-language),
+    the terms
+    [female](https://www.apstylebook.com/uc-san-diego/ap_stylebook/female)
+    and
+    [woman](https://www.apstylebook.com/uc-san-diego/ap_stylebook/woman-women))
+  - The term [elderly](https://www.apstylebook.com/uc-san-diego/ap_stylebook/elderly) and the use of [ages](https://www.apstylebook.com/uc-san-diego/ap_stylebook/ages)
+  - [Disabilities](https://www.apstylebook.com/uc-san-diego/ap_stylebook/disabled-handicapped) and handicaps
+  - [Immigration](https://www.apstylebook.com/uc-san-diego/ap_stylebook/immigration) and related terms
+* [APA Style and Grammar guidelines](https://apastyle.apa.org/)
+  - writing using [bias-free language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language)
+  - [Racial and Ethic Identity](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities)
+  - [Gender](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/gender)
+  - [Disability](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/disability)
+  - [Socioeconomic status](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/socioeconomic-status)
 * [UCSD Writing Hub](https://writinghub.ucsd.edu/for-undergrads/index.html)
 
 

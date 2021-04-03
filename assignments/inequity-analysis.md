@@ -92,9 +92,17 @@ If you work on this option, please see the instructor early for
 guidance. You will likely use a subset of the data and a large pretrained
 CNN (that you tweak) to start.
 
-### Option XX: Find your own topic
+### Option 4: Find your own topic
 
-You may also propose your own investigation! More to come here, soon.
+You may also propose your own investigation!
+If you are interested in finding your own topic, you must discuss the
+idea with course staff (instructor or TA) before starting.
+
+*Note*: One difficulty here, is finding a dataset that has information about
+the groun that you are writing about. One option, if a dataset has
+names in it (e.g. public salary/loan data), is to use census data to
+make a best guess at an individual's gender/race from their name (as
+in DSC 80).
 
 ## Requirements for writing and style
 

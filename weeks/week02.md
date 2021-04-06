@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction, Context, and Measurement
+title: Discrimination, Harms, and Measurement
 permalink: /weeks/week02/
 doodle: /doodle.png
 ---

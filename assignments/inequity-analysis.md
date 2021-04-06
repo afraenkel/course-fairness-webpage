@@ -50,7 +50,7 @@ Focusing on potential inequities in traffic stops, including police
 actions like pulling drivers over, searching and arresting them.
 
 Dataset: Stanford [Open Policing](https://openpolicing.stanford.edu/)
-dataset has traffice stops on many counties/cities around the US.
+dataset has traffic stops on many counties/cities around the US.
 
 There are a number of papers to help orient you in the area, including
 1. many of them listed on [Open Policing](https://openpolicing.stanford.edu/) 
@@ -99,7 +99,7 @@ If you are interested in finding your own topic, you must discuss the
 idea with course staff (instructor or TA) before starting.
 
 *Note*: One difficulty here, is finding a dataset that has information about
-the groun that you are writing about. One option, if a dataset has
+the group that you are writing about. One option, if a dataset has
 names in it (e.g. public salary/loan data), is to use census data to
 make a best guess at an individual's gender/race from their name (as
 in DSC 80).
@@ -110,7 +110,7 @@ While your project will require coding work, the coding will not
 directly appear in your work. Your paper will be a narrative
 about your subject that's informed by your (code) investigation. 
 
-Expect your paper to be approxiately 1600 words (4-5 pages).
+Expect your paper to be approximately 1600 words (4-5 pages).
 
 ### Writing about high-stakes topics
 

@@ -205,6 +205,16 @@ Grade: 40% of Total
   - [Socioeconomic status](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/socioeconomic-status)
 * [UCSD Writing Hub](https://writinghub.ucsd.edu/for-undergrads/index.html)
 
+## Creating a report
+
+* Stripping input cells from notebooks for pdf conversion
+  ([Code](https://github.com/DSC-Capstone/project-templates/blob/EDA/src/utils.py)).
+  - You may also use the `nbconvert` command-line, with code-strip
+    option.
+* [LaTex](https://www.cis.upenn.edu/~cis160/current/files/resources/latex_setup_guide.pdf)
+  is a typesetting language for generating nice pdfs with formulae and plots.
+* [R Markdown](https://rmarkdown.rstudio.com/) may be used to produce
+  pdf documents from noteobok-type interfaces, as well.
 
 ---
 

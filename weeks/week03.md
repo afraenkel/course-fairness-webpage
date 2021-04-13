@@ -18,7 +18,7 @@ doodle: /doodle.png
   Read through the end of section 3 carefully; skim the rest.
 * [When Does Equality
   Matter?](https://law.yale.edu/sites/default/files/documents/pdf/Intellectual_Life/ltw-Scanlon.pdf)
-  (page range TBA) by T. M. Scanlon
+  (pages 1-20) by T. M. Scanlon
 
 ## Reading (Optional)
 

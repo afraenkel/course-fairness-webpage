@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Parity Measures
-permalink: /weeks/week02/
+permalink: /weeks/week03/
 doodle: /doodle.png
 ---
 

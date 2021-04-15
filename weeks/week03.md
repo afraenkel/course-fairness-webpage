@@ -25,6 +25,9 @@ doodle: /doodle.png
 * [Fair ML Book: Chapter
   2](https://fairmlbook.org/classification.html)
   by Boracas, Hardt, and Narayanan
+* [21 Definition of Fairness and their
+  Politics](https://fairmlbook.org/tutorial2.html)
+  by Narayanan
 * [Fair prediction with disparate impact: A study of bias in recidivism
   prediction instruments](https://arxiv.org/pdf/1610.07524.pdf)
   by Alexandra Chouldechova

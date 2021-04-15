@@ -22,6 +22,9 @@ doodle: /doodle.png
 
 ## Reading (Optional)
 
+* [Fair ML Book: Chapter
+  2](https://fairmlbook.org/classification.html)
+  by Boracas, Hardt, and Narayanan
 * [Fair prediction with disparate impact: A study of bias in recidivism
   prediction instruments](https://arxiv.org/pdf/1610.07524.pdf)
   by Alexandra Chouldechova
@@ -32,12 +35,12 @@ doodle: /doodle.png
 From the Heidari piece:
 1. Explain the difference bewteen the overall utility, actual utility,
    and effort-based utility. Give an example to distinguish them.
-2. Pick *one* of Propositions 1,2,3 (read/understand them carefully)
+2. Pick *one* of Propositions 2,3,4 (read/understand them carefully)
    and interpret the utility functions that correspond to the parity
-   measure in question. Use an example to clarify your
-   explanation. (The interpretation given in the paper, after each
-   proposition may be helpful).
-
+   measure in question. Use an example from outside the reading or
+   lecture to clarify your explanation. (The interpretation given in
+   the paper, after each proposition may be helpful).
+   
 From the Scanlon piece:
 1. Summarize the main argument of the reading
 2. Give a supporting argument the author uses

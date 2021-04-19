@@ -162,8 +162,8 @@ Grade: 40% of Total
 |---|---|---|---|
 |[Week 1](weeks/week01)|Introduction and Context|None||
 |[Week 2](weeks/week02)|Measurement, Data, and Decision Making|OH||
-|[Week 3](weeks/week03)|Measuring Discrepancies at the Group Level|Data Analysis I||
-|[Week 4](weeks/week04)|Fairness and Discrimination at the Group Level|Data Analysis II||
+|[Week 3](weeks/week03)|Measuring Discrepancies at the Group Level and relationships to Fairness|Data Analysis I||
+|[Week 4](weeks/week04)|Score Functions, Calibration, and Creating 'Fair' Classifiers|Data Analysis II||
 |[Week 5](weeks/week05)|Limits of Parity Measures|Paper-1 help||
 |[Week 6](weeks/week06)|Fairness and Discrimination at the Individual Level||**[Paper 1](assignments/inequity-analysis) Due**|
 |[Week 7](weeks/week07)|Examining Algorithmic Decisions in an ML Pipeline|||

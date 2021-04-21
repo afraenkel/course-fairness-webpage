@@ -82,6 +82,9 @@ it is either advanced or tangential. Browse it out of interest only!
 
 * [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://arxiv.org/abs/1609.05807)
 * [The Problem of Infra-marginality in Outcome Tests for Discrimination](https://5harad.com/papers/threshold-test.pdf#page9)
+* [Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness](https://arxiv.org/pdf/1711.05144.pdf)
+* [Auditing and Achieving Intersectional Fairness in Classification Problems](https://arxiv.org/abs/1911.01468)
+
 
 #### Individual and Causal notions of fairness
 

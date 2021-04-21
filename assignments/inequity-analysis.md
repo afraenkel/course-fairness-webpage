@@ -69,8 +69,14 @@ Interpreting HMDA
 Data](https://www.bostonfed.org/publications/research-department-working-paper/1992/mortgage-lending-in-boston-interpreting-hmda-data.aspx). 
 
 There were many articles published in response over the last 25 years
-that you may also follow (links to come).
+that you may also follow:
 
+* [Do Minorities Pay More for Mortgages?](https://academic.oup.com/rfs/article/34/2/763/5827007)
+* [Algorithmic Fairness in Mortgage Lending: from Absolute Conditions to Relational Trade-offs](https://link.springer.com/article/10.1007/s11023-020-09529-4)
+* [Evidence on Discrimination in Mortgate Lending](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.12.2.41)
+* [Mortgage Lending in Boston: Interpreting HMDA Data](https://www.jstor.org/stable/2118254?seq=1)
+* [Same Sex Couples and Mortgage Lending](https://ncrc.org/same-sex-couples-and-mortgage-lending/)
+* [Missing Race Data in HMDA and the Implications for the Monitoring of Fair Lending Compliance](https://www.occ.gov/publications-and-resources/publications/economics-working-papers/pub-econ-working-paper-2001-1.pdf)
 
 ### Option 3: Medical imaging
 

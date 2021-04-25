@@ -20,12 +20,6 @@ effects of predictive policing on Black communities.
 
 * [The Problem of Infra-Marginality in Outcome Tests for Discrimination](https://5harad.com/papers/threshold-test.pdf)
 
-This article proposes an approach to measuring fairness for
-individuals that identify with multiple salient groups
-(intersectionality):
-
-* [Bayesian Modeling of Intersectional Fairness: The Variance of Bias](https://arxiv.org/pdf/1811.07255.pdf)
-
 Parity Measures requires *classifying* individuals into defined
 groups. The politics of how those groups are defined matters.
 
@@ -39,6 +33,13 @@ to carefully divided subgroups of people defined through
 intersectionality.
 
 * [Preventing Fairness Gerrymandering:Auditing and Learning for Subgroup Fairness](https://arxiv.org/pdf/1711.05144.pdf)
+
+This article proposes an approach to measuring fairness for
+individuals that identify with multiple salient groups
+(intersectionality):
+
+* [Bayesian Modeling of Intersectional Fairness: The Variance of Bias](https://arxiv.org/pdf/1811.07255.pdf)
+
 
 ## Reading Responses
 

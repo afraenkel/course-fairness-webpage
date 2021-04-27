@@ -145,7 +145,7 @@ it is either advanced or tangential. Browse it out of interest only!
 * [What are the Biases in my Word Embedding?](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/What-are-the-biases-in-my-word-embedding_paper.pdf)
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
 * [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/content/115/16/E3635)
-* [Understanding the ORigins of Bias in Word Embeddings](https://arxiv.org/pdf/1810.03611.pdf)
+* [Understanding the rRigins of Bias in Word Embeddings](https://arxiv.org/pdf/1810.03611.pdf)
 
 #### Ad Serving
 

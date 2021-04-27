@@ -43,4 +43,14 @@ individuals that identify with multiple salient groups
 
 ## Reading Responses
 
-TBA
+* In the Infra-Marginality Paper, carefully re-read the section on
+  *Omitted variable bias* (page 1211). In the COMPAS dataset, we have
+  the variables [here](). Which of these variables may have a similar
+  effect on the differences in distributions between COMPAS scores for
+  Black vs. White defendants? Why?
+
+* In *Data Feminism*:
+1. Summarize the main argument of the reading
+2. Give a supporting argument the author uses
+3. Discuss any objects you may have or subtleties the author must deal
+   with.

@@ -45,7 +45,7 @@ individuals that identify with multiple salient groups
 
 * In the Infra-Marginality Paper, carefully re-read the section on
   *Omitted variable bias* (page 1211). In the COMPAS dataset, we have
-  the variables [here](). Which of these variables may have a similar
+  the variables [here](https://www.documentcloud.org/documents/2702103-Sample-Risk-Assessment-COMPAS-CORE.html). Which of these variables may have a similar
   effect on the differences in distributions between COMPAS scores for
   Black vs. White defendants? Why?
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parity Measures
+title: Representational Harms
 permalink: /weeks/week09/
 doodle: /doodle.png
 ---

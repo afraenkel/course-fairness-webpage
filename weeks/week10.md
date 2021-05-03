@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parity Measures
+title: Third Party APIs
 permalink: /weeks/week10/
 doodle: /doodle.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parity Measures
+title: Feedback Loops
 permalink: /weeks/week08/
 doodle: /doodle.png
 ---

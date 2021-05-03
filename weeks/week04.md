@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parity Measures
+title: Calibration
 permalink: /weeks/week04/
 doodle: /doodle.png
 ---

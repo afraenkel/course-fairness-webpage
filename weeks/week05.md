@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parity Measures
+title: Limits of Parity Measures
 permalink: /weeks/week05/
 doodle: /doodle.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parity Measures
+title: Counterfactual Fairness
 permalink: /weeks/week07/
 doodle: /doodle.png
 ---

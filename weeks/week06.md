@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parity Measures
+title: Individual Notions of Fairness
 permalink: /weeks/week06/
 doodle: /doodle.png
 ---

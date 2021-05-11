@@ -7,18 +7,27 @@ doodle: /doodle.png
 
 ## Topics
 
-* Causality; Counterfactual Fairness
+* Approaching fairness across the ML Pipeline
 
 ## Reading (Required)
 
-* [Counterfactual Fairness](https://arxiv.org/pdf/1703.06856.pdf)
-  by M.J. Kusner, J.R. Loftus, C. Russell, and R. Silva,
+This paper approaches pre-processing a dataset via 'label-flipping'
+and 're-weighting', in order to impose demographic parity:
 
-* [A new look at Racial Profiling: Evidence from the Boston Police Department](https://www.jstor.org/stable/25651325?seq=1)
+* [Building Classifiers with Independency Constraints](https://www.win.tue.nl/~mpechen/publications/pubs/CaldersICDM09.pdf)
+
+This paper using the in-processing approach of adding a penalty to the
+loss function to better learn fair model parameters:
+
+* [Fairness-aware Learning through Regularization Approach](https://www.kamishima.net/archive/2011-ws-icdm_padm.pdf)
 
 ## Reading (Optional)
 
-* [Fair ML Book: Chapter 6](https://fairmlbook.org/causal.html)
+This paper approaches pre-processing a dataset by changing the
+distribution of attributes:
+
+* [Certifying and removing disparate impact](https://arxiv.org/pdf/1412.3756.pdf)
+
 
 ## Reading Responses
 

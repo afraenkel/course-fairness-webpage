@@ -5,16 +5,23 @@ doodle: "/doodle.png"
 permalink: /assignments/algorithmic-audit/
 ---
 
-
 Write a paper that audits/analyzes an algorithmic decision making
-system. This system may be a real-world "live" system, a system/algorithm
-described in a publication, or a system that you build. This audit
-should go beyond an observational analysis and leverage one of the
-models discussed in the second half of the course (causal reasoning,
-threshold testing, feedback loop analysis, or insupervised
-representation analysis).
+system that you build (and may serve as a basis of comparison with a
+real world system). This audit should go beyond an observational
+analysis and leverage ~2 topics discussed in the
+second half of the course:
 
-You are encouraged to continue with the subject-matter your began
-studying in paper 1.
+* Inframarginality and threshold testing
+* Intersectionality analysis
+* Individual Fairness analysis
+* Preprocessing, In-processing, and Post-processing for fairness
+* Feedback Loop modeling, simulation, and analysis
+* Unsupervised representation analysis
 
-More details later (week 06).
+This paper will require a lot more code and quantitative analysis than
+the first.
+
+You are encouraged to continue with the subject-matter you began
+studying in paper 1. You will meet with course staff during week 8 to
+propose a plan for your paper.
+

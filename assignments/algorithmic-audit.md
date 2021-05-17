@@ -15,6 +15,7 @@ second half of the course:
 * Intersectionality analysis
 * Individual Fairness analysis
 * Preprocessing, In-processing, and Post-processing for fairness
+* Selective labels problem
 * Feedback Loop modeling, simulation, and analysis
 * Unsupervised representation analysis
 

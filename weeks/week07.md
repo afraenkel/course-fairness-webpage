@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Counterfactual Fairness
+title: Fairness across the ML Pipeline
 permalink: /weeks/week07/
 doodle: /doodle.png
 ---

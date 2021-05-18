@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feedback Loops
+title: Interfaces with Decision Making
 permalink: /weeks/week08/
 doodle: /doodle.png
 ---

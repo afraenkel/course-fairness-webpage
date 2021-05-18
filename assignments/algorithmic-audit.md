@@ -26,3 +26,5 @@ You are encouraged to continue with the subject-matter you began
 studying in paper 1. You will meet with course staff during week 8 to
 propose a plan for your paper.
 
+This assignment is a group assignmnet. You may work individually, in
+the same group of 2 as paper-1, or a different group of 2 entirely.

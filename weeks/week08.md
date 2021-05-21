@@ -44,4 +44,9 @@ models that are retrained on prior decisions:
 
 ## Reading Responses
 
-TBA
+For any *two* of the required readings:
+1. Summarize the main argument of the reading
+2. Give a supporting argument the author uses
+3. Discuss any objects you may have or subtleties the author must deal
+   with.
+

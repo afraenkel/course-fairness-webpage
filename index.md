@@ -167,8 +167,8 @@ Grade: 40% of Total
 |[Week 5](weeks/week05)|Limits of Parity Measures: intersectionality, infra-marginality|Paper-1 help||
 |[Week 6](weeks/week06)|Fairness and Discrimination at the Individual Level||**[Paper 1](assignments/inequity-analysis) Due**|
 |[Week 7](weeks/week07)|Examining Algorithmic Decisions in an ML Pipeline|||
-|[Week 8](weeks/week09)|Amplification of Bias and Feedback Loops|||
-|[Week 9](weeks/week08)|Representational Harms I, Echo Chambers|||
+|[Week 8](weeks/week08)|Amplification of Bias and Feedback Loops|||
+|[Week 9](weeks/week09)|Representational Harms I, Echo Chambers|||
 |[Week 10](weeks/week10)|Representational Harms II, 3rd Party APIs, Unsupervised Models|||
 |Finals Week|||**[Paper 2](assignments/algorithmic-audit) Due**|
 

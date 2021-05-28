@@ -17,8 +17,14 @@ doodle: /doodle.png
 
 ## Reading (Optional)
 
-TBA
+* [Fairness in representation: quantifying stereotyping as a representational harm](https://arxiv.org/abs/1901.09565)
+  by Mohsen Abbasi, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian
 
 ## Reading Responses
 
-TBA
+For both of the required readings:
+1. Summarize the main argument of the reading
+2. Give a supporting argument the author uses
+3. Discuss any objects you may have or subtleties the author must deal
+   with.
+

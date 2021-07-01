@@ -7,7 +7,9 @@ permalink: /
 
 ---
 * [Introduction](#introduction)
+* [Learning Objectives](#learning-obectives)
 * [Topics Covered](#topics-covered)
+* [Course Methods](#course-methods)
 * [Course Expectations](#course-expectations)
   - [Guidelines for Respectful Conversation](#guidelines-for-respectful-conversation)
 * [Assignments](#assignments)
@@ -21,36 +23,95 @@ permalink: /
 # Introduction
 
 This course examines the greater context under which the practice of
-Data Science exists and explores concrete ways these issues surface in
-technical work. Two parallel threads run through the quarter:
+Data Science exists and explores concrete ways issues of fairness
+surface in the technical work of a Data Scientist. Much of the work of
+a Data Scientist contribute to decision making processes, either
+through algorithmic systems or informing policy. The course will
+survey frameworks for studying the objectives and impacts of such
+decisions, paying particular attention to how such decisions affect a
+diverse population of individuals.
 
-* Readings will introduce different frameworks for understanding how
-  individuals relate to social institutions.
-* Case studies identify how these concepts arise in the "life of a
-  Data Scientist" and using them to propose and critique potential
-  "solutions".
+The course will ground, motivate, and contextualize these frameworks
+in the experiences of individuals and communities impacted most by
+decision making systems. As participants in the course, we will relate
+to these individuals through the critical lens of our own
+experience. Concretely, the course will dedicate significant time the
+study of particular histories and contexts of marginalized individuals
+and communities as a necessary component of any analysis of these
+decision making systems.
+
+---
+
+# Learning Objectives
+
+At the end of the course, student will be able to:
+
+* Identify sources and impacts of the 'limits of measurement' via
+  reasoning about context, considering qualities lost in the data
+  collection process.
+* Critique the strengths and weaknesses of quantitative concepts that
+  attempt to model commonly held values related to fairness.
+* Compare and constrast the implications of considering different
+  contexts under which a decision making system may be judged (social,
+  legal, business) and describe the impacts such decisions have on
+  the people with whom it interacts.
+* Write a data-driven analyses of a decision making system, critiquing
+  specific limitations of the analysis, and identifying the values
+  that the quantitative analysis attempts to capture.
+* Create, then audit, a decision making system, while considering and
+  evaluating the implications of choices made during the process on
+  those that the system impacts.
+
+Together, these objectives form a toolkit that students can use in
+critically analyzing the impacts of a decision making system, diagnose
+potential sources of bias, and constructively discuss the implications
+of decision choices in terms of values and the harms incurred by others.
 
 ---
 
 # Topics Covered
 
-The course will broadly cover the following topics in sequence:
-1. Introduction, definitions, and context
-2. Identifying inequity in data
-3. (Un)Fairness across the machine learning pipeline
-4. A closer look at decision making
-5. Advanced topics
+The course will broadly cover the following topics:
+1. Frameworks for understanding the impacts of algorithmic decision
+   making systems and the contexts under which they operate. These
+   include a discussion of distributive theories of justice,
+   discrimination, harms. We will emphasize connections between these
+   frameworks and the limitations of measurement and classification.
+2. Identifying inequity in data; understanding limitations in such
+   identification.
+3. Identifying sources of bias in the Machine Learning pipeline from
+   the point of view of a data scientist and ways of approaching this
+   bias in practice.
+4. Following the impact of made decisions, including the amplification
+   of bias through feedback loops and reinforcing power structures.
+5. Identifying representational harms, with particular attention paid
+   to quantitatively identifying such harms in natural language and
+   images.
 
-Throughout the course, we will pay particular attention to the
-following themes:
-* The limits of measurement ('all data are cooked').
-* The new (and old) problems surfaced by the *algorithmic* component
-  in the decision making considered in the course.
-* How these topics surface in a variety of contexts (legal, social),
-  in a variety of decision-making paradigms (scoring models,
-  information retrieval), with a variety of data types (text, image,
-  tabular, geospatial).
-* Reasoning about the impact that a decision-making model has on the people with whom it interacts.
+---
+
+# Course Methods
+
+The methods used in the course regularly incorporate experiential and
+practical approaches to solidify and expand understanding of the
+course's lecture-based, topical material. A few of these methods are
+outlined below:
+
+1. Weekly reading responses on which you reflect on your experiences
+   in comparison to the experiences told in the readings.
+1. Engaging in weekly discussion with other students (via reading
+   responses) that encourage understanding others points of view.
+1. Focusing on the origins and context of marginalized individuals and
+   groups in the United States that are most likely to experience
+   unfair algorithmic decisions.
+1. Engaging in a focused study of a prominent inequity in San Diego,
+   California, or the United States, including a thorough undestanding
+   of the context and evaluation of the measurements (data) used to
+   draw conclusions.
+1. Practice doing the work of a Data Scientist, critically examining
+   your decision-making system's impact on its users while weighing
+   the implications of possible design decisions decision (paper-2).
+
 
 ---
 
@@ -128,16 +189,14 @@ the given prompt by Mondays at 11:59PM. Upon submission of the reading
 response, you must complete your assigned peer review by the following
 Wednesday at 11:59PM. These assignments are graded on a 0-2 scale.
 
-See the [reading response assignment](assignments/reading-response)
-for details.
-
 *Grade: 20% of Total*
 
 ## Identification of Inequity 
 
-Write a paper that identifies and analyzes an inequity in the
-world. You may either replicate a known publication or find a topic
-yourself. See the [assignment](assignments/inequity-analysis).
+Write a paper that identifies and analyzes a potential inequity in the
+world, using data. You may either replicate a known publication or
+find a topic yourself. See the
+[assignment](assignments/inequity-analysis).
 
 This project may be worked on in pairs.
 
@@ -145,9 +204,15 @@ This project may be worked on in pairs.
 
 ## Algorithmic Audit
 
-Write a paper that audits/analyzes an algorithmic decision making
-system. This system may be a real-world "live" system, a system/algorithm
-described in a publication, or a system that you build. See the
+In this paper, you will:
+1. build an algorithmic decision making system (in the area you wrote
+   about in paper-1) and
+2. audit the system / study the impacts on the population on which it
+   decides.
+   
+The audit may lead to studying different approaches to potential
+unfair decisions by the system. Your analysis must at least 2 of the
+topics covered in the second half of the course. See the
 [assignment](assignments/algorithmic-audit).
 
 This project may be worked on in pairs.
@@ -160,16 +225,16 @@ Grade: 40% of Total
 
 |Week|Topic|Discussion|Assignments|
 |---|---|---|---|
-|[Week 1](weeks/week01)|Introduction and Context|None||
+|[Week 1](weeks/week01)|Introduction, Frameworks of Distributive Justice|None||
 |[Week 2](weeks/week02)|Measurement, Data, and Decision Making|OH||
 |[Week 3](weeks/week03)|Measuring Discrepancies at the Group Level and relationships to Fairness|Data Analysis I||
 |[Week 4](weeks/week04)|Score Functions, Calibration, and Creating 'Fair' Classifiers|Data Analysis II||
 |[Week 5](weeks/week05)|Limits of Parity Measures: intersectionality, infra-marginality|Paper-1 help||
 |[Week 6](weeks/week06)|Fairness and Discrimination at the Individual Level||**[Paper 1](assignments/inequity-analysis) Due**|
-|[Week 7](weeks/week07)|Examining Algorithmic Decisions in an ML Pipeline|||
+|[Week 7](weeks/week07)|Bias in the ML pipeline: pre-processing, in-processing, post-processing|||
 |[Week 8](weeks/week08)|Amplification of Bias and Feedback Loops|||
-|[Week 9](weeks/week09)|Representational Harms I, Echo Chambers|||
-|[Week 10](weeks/week10)|Representational Harms II, 3rd Party APIs, Unsupervised Models|||
+|[Week 9](weeks/week09)|Representational Harms I: Stereotyping; Fairness in Feature Space|||
+|[Week 10](weeks/week10)|Representational Harms II: NLP, 3rd Party APIs|||
 |Finals Week|||**[Paper 2](assignments/algorithmic-audit) Due**|
 
 ---
@@ -179,7 +244,6 @@ Grade: 40% of Total
 ## Course Content 
 
 * [Lecture Notes](https://afraenkel.github.io/fairness-book/intro.html)
-* [References and topical reading](references)
 
 ## Writing about bias and discrimination
 

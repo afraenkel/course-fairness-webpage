@@ -5,27 +5,32 @@ doodle: "/doodle.png"
 permalink: /assignments/algorithmic-audit/
 ---
 
-Write a paper that audits/analyzes an algorithmic decision making
-system that you build (and may serve as a basis of comparison with a
-real world system). This audit should go beyond an observational
-analysis and leverage ~2 topics discussed in the
-second half of the course:
+This assignment asks you to play the role of a Data Scientist tasked
+with building an algorithmic decision making system. You will:
+1. Define the inputs/outputs of the system, the decisions being made,
+   and the relationship of the decisions to the true outcome.
+2. Build the decision making system and explain the context under
+   which the model was trained using [Model Cards for Model
+   Reporting](https://arxiv.org/abs/1810.03993).
+3. Analyze the model performance with respect to utility and fairness
+   benchmarks, interpreting the results using the context developed in
+   paper-1.
+4. Incorporate either:
+   a. analyses from part-2 of the course to assess the fairness of
+   your decision making system (e.g. Threshold Tests, Individual
+   Fairness Criteria, Contraction, Feedback Loop Analysis,
+   Intersectionality).
+   b. fairness-focused modeling procedures from part-2 of the course
+   to examine the effect such procedures have on decisions made by the
+   system.
 
-* Inframarginality and threshold testing
-* Intersectionality analysis
-* Individual Fairness analysis
-* Preprocessing, In-processing, and Post-processing (calibration) for
-  fairness
-* Selective labels problem (contraction; label augmentation)
-* Feedback Loop modeling, simulation, and analysis
-* Unsupervised representation analysis
+You should aim to incorporate two different topics from the second
+half of the course into your paper. You are encouraged to continue
+with the subject-matter you began studying in paper 1. You will meet
+with course staff during week 8 to propose a plan for your paper.
 
 This paper will require a lot more code and quantitative analysis than
 the first. You do not need to submit code; only include results.
-
-You are encouraged to continue with the subject-matter you began
-studying in paper 1. You will meet with course staff during week 8 to
-propose a plan for your paper.
 
 This assignment is a group assignment. You may work individually, in
 the same group of 2 as paper-1, or a different group of 2 entirely.

@@ -35,7 +35,7 @@ The course will ground, motivate, and contextualize these frameworks
 in the experiences of individuals and communities impacted most by
 decision making systems. As participants in the course, we will relate
 to these individuals through the critical lens of our own
-experience. Concretely, the course will dedicate significant time the
+experience. Concretely, the course will dedicate significant time to the
 study of particular histories and contexts of marginalized individuals
 and communities as a necessary component of any analysis of these
 decision making systems.

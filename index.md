@@ -184,10 +184,14 @@ weekly readings.
 
 ## Weekly Reading Responses 
 
-Each week, complete the reading assignment and write your response to
-the given prompt by Mondays at 11:59PM. Upon submission of the reading
-response, you must complete your assigned peer review by the following
-Wednesday at 11:59PM. These assignments are graded on a 0-2 scale.
+Each week, complete the reading assignment found in the
+[schedule](#schedule) and write your response to the given prompt by
+Mondays at 11:59PM. 
+
+Upon submission of the reading response, you must
+complete your assigned peer review by the following Wednesday at
+11:59PM. These assignments are graded on a 0-2 scale.
+
 
 *Grade: 20% of Total*
 

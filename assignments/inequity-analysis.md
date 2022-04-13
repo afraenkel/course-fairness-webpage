@@ -158,10 +158,10 @@ have looked at the data).
 
 ## Final Due Date
 
-The final paper is due Friday 11:59PM PDT on May 7 (week 6).
+The final paper is due Friday 11:59PM PDT on May 6 (week 6).
 
 **If you are working in a group**, the final paper is due 48 hours later,
-Sunday 11:59PM PDT on May 9.
+Sunday 11:59PM PDT on May 8.
 
 ## Rubric
 
